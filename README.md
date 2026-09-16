@@ -40,7 +40,7 @@ npm run build
 
 ## Current status
 
-`v0.1` is a vertical prototype, not a production knowledge system. The next technical step is a real `ModelAdapter` interface with explicit context assemblies, followed by import, source anchoring and Git-backed vault synchronisation.
+`v0.1` is a vertical prototype, not a production knowledge system. The next technical step is the first external `ModelAdapter` with explicit, logged context assemblies, followed by source anchoring and Git-backed vault synchronisation.
 
 ## Name hierarchy
 
